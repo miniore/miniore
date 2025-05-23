@@ -38,6 +38,7 @@
 
 📎 My LinkedIn profile: [LinkedIn](https://www.linkedin.com/in/pablo-orellana-mu%C3%B1oz-1b0462314/)  
 📎 My Github profile[GitHub](https://github.com/miniore)
+
 📎 My itch profile[Itch](https://miniore.itch.io)
 
 ---
